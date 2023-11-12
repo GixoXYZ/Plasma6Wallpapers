@@ -9,6 +9,8 @@
 
 ---
 
+Latest revision can be found [here](https://github.com/notgixo/Plasma6Wallpapers/tree/main/Wallpapers/Revision%202).
+
 ## Previews
 
 ### Mount Caustics
