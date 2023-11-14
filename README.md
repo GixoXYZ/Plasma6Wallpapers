@@ -9,7 +9,10 @@
 
 ---
 
-Latest revision can be found [here](https://github.com/notgixo/Plasma6Wallpapers/tree/main/Wallpapers/Revision%202).
+# Final submissions for the first stage:
+
+- If color variants are not permitted: [link](https://github.com/notgixo/Plasma6Wallpapers/tree/main/Wallpapers/No%20Color%20Variants)
+- If color variants are permitted: [link](https://github.com/notgixo/Plasma6Wallpapers/tree/main/Wallpapers/Revision%202).
 
 ## Previews
 
